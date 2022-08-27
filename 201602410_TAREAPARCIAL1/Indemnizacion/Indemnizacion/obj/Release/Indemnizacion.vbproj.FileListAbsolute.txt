@@ -1,0 +1,10 @@
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2013\Projects\Nueva carpeta\Indemnizacion\Indemnizacion\bin\Release\Indemnizacion.exe.config
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2013\Projects\Nueva carpeta\Indemnizacion\Indemnizacion\bin\Release\Indemnizacion.exe
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2013\Projects\Nueva carpeta\Indemnizacion\Indemnizacion\bin\Release\Indemnizacion.pdb
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2013\Projects\Nueva carpeta\Indemnizacion\Indemnizacion\bin\Release\Indemnizacion.xml
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2013\Projects\Nueva carpeta\Indemnizacion\Indemnizacion\obj\Release\Indemnizacion.Form1.resources
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2013\Projects\Nueva carpeta\Indemnizacion\Indemnizacion\obj\Release\Indemnizacion.Resources.resources
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2013\Projects\Nueva carpeta\Indemnizacion\Indemnizacion\obj\Release\Indemnizacion.vbproj.GenerateResource.Cache
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2013\Projects\Nueva carpeta\Indemnizacion\Indemnizacion\obj\Release\Indemnizacion.exe
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2013\Projects\Nueva carpeta\Indemnizacion\Indemnizacion\obj\Release\Indemnizacion.xml
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2013\Projects\Nueva carpeta\Indemnizacion\Indemnizacion\obj\Release\Indemnizacion.pdb

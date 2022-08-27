@@ -1,0 +1,14 @@
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2013\Projects\Nueva carpeta\Indemnizacion\Indemnizacion\bin\Debug\Indemnizacion.exe.config
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2013\Projects\Nueva carpeta\Indemnizacion\Indemnizacion\bin\Debug\Indemnizacion.exe
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2013\Projects\Nueva carpeta\Indemnizacion\Indemnizacion\bin\Debug\Indemnizacion.pdb
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2013\Projects\Nueva carpeta\Indemnizacion\Indemnizacion\bin\Debug\Indemnizacion.xml
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2013\Projects\Nueva carpeta\Indemnizacion\Indemnizacion\obj\Debug\Indemnizacion.Form1.resources
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2013\Projects\Nueva carpeta\Indemnizacion\Indemnizacion\obj\Debug\Indemnizacion.Resources.resources
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2013\Projects\Nueva carpeta\Indemnizacion\Indemnizacion\obj\Debug\Indemnizacion.vbproj.GenerateResource.Cache
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2013\Projects\Nueva carpeta\Indemnizacion\Indemnizacion\obj\Debug\Indemnizacion.exe
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2013\Projects\Nueva carpeta\Indemnizacion\Indemnizacion\obj\Debug\Indemnizacion.xml
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2013\Projects\Nueva carpeta\Indemnizacion\Indemnizacion\obj\Debug\Indemnizacion.pdb
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2013\Projects\Nueva carpeta\Indemnizacion\Indemnizacion\obj\Debug\Indemnizacion.vbproj.AssemblyReference.cache
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2013\Projects\Nueva carpeta\Indemnizacion\Indemnizacion\obj\Debug\Indemnizacion.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2013\Projects\Nueva carpeta\Indemnizacion\Indemnizacion\obj\Debug\Indemnizacion.Form2.resources
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2013\Projects\Nueva carpeta\Indemnizacion\Indemnizacion\obj\Debug\Indemnizacion.vbproj.CoreCompileInputs.cache
